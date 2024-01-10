@@ -1,0 +1,23 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.heading{
+    font-size: 50px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .col-1 {
+    width: 330px;
+  }
+  
+  .col-2 {
+    width: 330px;
+  }
+  
